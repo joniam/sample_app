@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: Jonathan
+  email: jonathan@theshermans.xyz
+
+two:
+  name: Kristin
+  email: kristin@theshermans.xyz
